@@ -11,25 +11,17 @@ alfy.fetch('customer.getdango.com/dango/api/query/kaomoji', {
 
   const items = data.items
     .map(x => {
-      const emoji = x.text;
-      all += emoji;
+      const kaomoji = x.text;
+      all += kaomoji;
 
       return {
-        title: emoji,
-        arg: emoji,
+        title: kaomoji,
+        arg: kaomoji,
         icon: {
           path: ' ' // Hide icon
         }
       };
     });
-
-  items.push({
-    title: all,
-    arg: all,
-    icon: {
-      path: ' '
-    }
-  });
 
   alfy.output(items);
 });
