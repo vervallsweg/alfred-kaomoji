@@ -7,16 +7,11 @@ alfy.fetch('customer.getdango.com/dango/api/query/kaomoji', {
     q: alfy.input
   }
 }).then(data => {
-  let all = '';
-
   const items = data.items
     .map(x => {
-      const kaomoji = x.text;
-      all += kaomoji;
-
       return {
-        title: kaomoji,
-        arg: kaomoji,
+        title: x.text,
+        arg: x.text,
         icon: {
           path: ' ' // Hide icon
         }
