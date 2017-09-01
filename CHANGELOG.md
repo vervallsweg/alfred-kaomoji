@@ -1,6 +1,5 @@
 # CHANGELOG
 
-
 ## 1.1.1 (released 2017-09-01)
 
 - Fix version number
