@@ -22,7 +22,6 @@ When at the top, press <kbd>▲</kbd> and <kbd>Enter</kbd>, to copy all the kaom
 
 ## Related
 
-- [alfred-lmgtfy](https://github.com/vinkla/alfred-lmgtfy) - Let me Google that for you link generator.
 - [alfred-macos](https://github.com/vinkla/alfred-macos) - A macOS spotlight theme for Alfred.
 - [alfred-packagist](https://github.com/vinkla/alfred-packagist) - A search for PHP packages with Packagist.
 
