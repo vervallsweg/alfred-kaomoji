@@ -22,7 +22,7 @@ Select an kaomoji and press <kbd>Enter</kbd> to copy it to the clipboard.
 
 - [alfred-devdocs](https://github.com/vinkla/alfred-devdocs) - Search documentation on DevDocs.
 - [alfred-macos](https://github.com/vinkla/alfred-macos) - A macOS spotlight theme for Alfred.
-- [alfred-packagist](https://github.com/vinkla/alfred-packagist) - A search for PHP packages with Packagist.
+- [alfred-packagist](https://github.com/vinkla/alfred-packagist) - Search for PHP packages with Packagist.
 
 ## License
 
