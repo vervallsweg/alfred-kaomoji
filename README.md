@@ -18,8 +18,6 @@ In Alfred, type `kaomoji`, <kbd>Enter</kbd>, and some text, to find relevant kao
 
 Select an kaomoji and press <kbd>Enter</kbd> to copy it to the clipboard.
 
-When at the top, press <kbd>▲</kbd> and <kbd>Enter</kbd>, to copy all the kaomoji.
-
 ## Related
 
 - [alfred-macos](https://github.com/vinkla/alfred-macos) - A macOS spotlight theme for Alfred.
