@@ -3,6 +3,7 @@
 const alfy = require('alfy');
 
 alfy.fetch('customer.getdango.com/dango/api/query/kaomoji', {
+  maxAge: 604800000,
   query: {
     q: alfy.input
   }
