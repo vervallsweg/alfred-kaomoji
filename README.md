@@ -22,7 +22,6 @@ Select an kaomoji and press <kbd>Enter</kbd> to copy it to the clipboard.
 
 - [alfred-macos](https://github.com/vinkla/alfred-macos) - A macOS spotlight theme for Alfred.
 - [alfred-packagist](https://github.com/vinkla/alfred-packagist) - Search for PHP packages with Packagist.
-- [alfred-reference](https://github.com/vinkla/alfred-reference) - Search for HTML elements and CSS properties.
 
 ## License
 
