@@ -25,4 +25,4 @@ Select an kaomoji and press <kbd>Enter</kbd> to copy it to the clipboard.
 
 ## License
 
-[MIT](LICENSE) © [Vincent Klaiber](https://vinkla.com)
+[MIT](LICENSE) © [Vincent Klaiber](https://doubledip.se)
