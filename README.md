@@ -20,6 +20,7 @@ Select an kaomoji and press <kbd>Enter</kbd> to copy it to the clipboard.
 
 ## Related
 
+- [alfred-emoji](https://github.com/vinkla/alfred-emoji) - Find emoji by name or keyword.
 - [alfred-macos](https://github.com/vinkla/alfred-macos) - A macOS spotlight theme for Alfred.
 - [alfred-packagist](https://github.com/vinkla/alfred-packagist) - Search for PHP packages with Packagist.
 
